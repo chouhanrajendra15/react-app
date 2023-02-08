@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.2acf436b.css",
+    "main.js": "/react-app/static/js/main.afc96f12.js",
+    "static/js/787.fe1675bb.chunk.js": "/react-app/static/js/787.fe1675bb.chunk.js",
+    "static/media/trend.jpg": "/react-app/static/media/trend.7a1e43432a829e99c40c.jpg",
+    "static/media/contact.jpg": "/react-app/static/media/contact.90cdb09c233af767ecd7.jpg",
+    "static/media/img11.jpg": "/react-app/static/media/img11.49ff4d986f70a44d5de2.jpg",
+    "static/media/me3.jpg": "/react-app/static/media/me3.ba7e32a1c339eeed5d62.jpg",
+    "static/media/me4.jpg": "/react-app/static/media/me4.0ac34bbb5d6b18e7a150.jpg",
+    "static/media/me1.jpg": "/react-app/static/media/me1.24f3aedde5b4106f379d.jpg",
+    "index.html": "/react-app/index.html",
+    "main.2acf436b.css.map": "/react-app/static/css/main.2acf436b.css.map",
+    "main.afc96f12.js.map": "/react-app/static/js/main.afc96f12.js.map",
+    "787.fe1675bb.chunk.js.map": "/react-app/static/js/787.fe1675bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2acf436b.css",
+    "static/js/main.afc96f12.js"
+  ]
+}
